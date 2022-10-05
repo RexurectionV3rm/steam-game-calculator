@@ -1,4 +1,4 @@
-##Steam Game Calculator!
+## Steam Game Calculator!
 
 ![image](https://i.imgur.com/Xktqtq6.png)
 
